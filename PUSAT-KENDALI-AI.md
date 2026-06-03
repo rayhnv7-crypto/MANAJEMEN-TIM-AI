@@ -1,32 +1,22 @@
-# PUSAT KENDALI AI
+### agent-orchestration-improve-agent-v2
 
-## VISI
+Status: Aktif
 
-Membangun sistem AI untuk:
-- CEO AI
-- Marketing AI
-- Sales AI
-- SEO AI
-- Website AI
-- Automation AI
+Fungsi:
+- Analisis performa AI
+- Optimasi workflow
+- Peningkatan kualitas output
 
 ---
-
-## CORE SKILLS
-
-### agent-orchestration-workflow
-Status: Aktif
-
-### agent-orchestration-improve-agent-v2
-Status: Aktif
 
 ### git-pr-workflows-git-workflow
-Status: Kandidat
 
----
+Status: Cadangan
 
-## CATATAN
-
+Fungsi:
+- Workflow GitHub
+- Quality Control
+- Review pekerjaan
 Semua skill yang ditemukan dari:
 - SkillsMP
 - Skills.sh
